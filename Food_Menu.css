@@ -18,14 +18,12 @@ h1 {
 }
 
 .item-image {
-  width: 100%;
-  height: auto;
-  border: 2px solid #d32f2f; /* Border color and width */
-  padding: 20px; /* Padding for better appearance */
+  border: 2px solid #d32f2f;
+  padding: 20px; 
 }
 
 table {
-  width: 100%;
+  width: 50%;
   border-collapse: collapse;
   margin-bottom: 20px;
 }
@@ -48,4 +46,3 @@ button {
   border: none;
   cursor: pointer;
 }
-
